@@ -1,5 +1,4 @@
-### Description
-The is a  pull request template
+Please go the the `Preview` tab and select the appropriate sub-template:
 
-[] - Bob
-[] - Dave
+* [Minor](?expand=1&template=minor.md)
+* [Critical](?expand=1&template=critical.md)
