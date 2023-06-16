@@ -1,4 +1,0 @@
-### Minor
-
-- [ ] Test
-- [ ] Test2
